@@ -1,6 +1,6 @@
 <script setup>
-const isAuthenticated = useCookie('is-authenticated')
-const currentUser = useCookie('current-user')
+const isAuthenticated = useCookie("is-authenticated");
+const currentUser = useCookie("current-user");
 </script>
 
 <template>
